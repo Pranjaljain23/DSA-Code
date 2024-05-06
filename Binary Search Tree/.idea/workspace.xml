@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76e7477c-3131-4ef6-a76a-4d2872819d8c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Hashing/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/BinomialCoefficient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/ButterflyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/CharacterPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/Floyds_Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/HalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/HollowRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/Hollow_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/InvertedAndRotatedPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/InvertedNumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/InvertedStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/PalindromeNumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/SolidRhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/Star.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewPatterns/src/zero_one_triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2dSInFnOGVBMdUyVdO75XLU4QdT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/pranjaljain/Documents/Coding/Java/MyCode/Binary Search Tree",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-4caba194b151-68fdadd5" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76e7477c-3131-4ef6-a76a-4d2872819d8c" name="Changes" comment="" />
+      <created>1709995218160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709995218160</updated>
+    </task>
+    <servers />
+  </component>
+</project>

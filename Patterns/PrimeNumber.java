@@ -6,7 +6,7 @@ class PrimeNumber {
         System.out.print("Enter the Number: ");
         int n = sc.nextInt();
 
-        boolean isPrime = true;                
+        boolean isPrime = true;
         if(n == 2) {
             System.out.println("2 is Prime");
         }
